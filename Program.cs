@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace CourseGPAFile
+namespace Homework
 {
     class Program
     {
