@@ -41,7 +41,7 @@ namespace TicketSystem
                         }
                         sr.Close();
                         
-                        double GPA = (double)TicketSystem / count;
+                        
                         Console.WriteLine("Ticket: {0:n2}", GPA);
                     }
                     else
