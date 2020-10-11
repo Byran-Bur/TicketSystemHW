@@ -34,14 +34,14 @@ namespace TicketSystem
                             
                             string[] arr = line.Split('|');
                             
-                            Console.WriteLine("Name: {0}, Grade: {1}", arr[0], arr[1]);
+                            Console.WriteLine("Name: {0}, Priority: {1}", arr[0], arr[1]);
                             
                             gradePoints += arr[1] == "A" ? 4 : arr[1] == "B" ? 3 : arr[1] == "C" ? 2 : arr[1] == "D" ? 1 : 0;
                             count += 1;
                         }
                         sr.Close();
                         
-                        double GPA = (double)gradePoints / count;
+                        double GPA = (double)Intital / count;
                         Console.WriteLine("Ticket: {0:n2}", GPA);
                     }
                     else
