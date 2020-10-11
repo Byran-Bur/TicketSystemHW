@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vscode\\Ticket\\Homework\\Homework.csproj": {}
+    "D:\\vscode\\clonetest\\TicketSystemHW\\Homework.csproj": {}
   },
   "projects": {
-    "D:\\vscode\\Ticket\\Homework\\Homework.csproj": {
+    "D:\\vscode\\clonetest\\TicketSystemHW\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vscode\\Ticket\\Homework\\Homework.csproj",
+        "projectUniqueName": "D:\\vscode\\clonetest\\TicketSystemHW\\Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "D:\\vscode\\Ticket\\Homework\\Homework.csproj",
+        "projectPath": "D:\\vscode\\clonetest\\TicketSystemHW\\Homework.csproj",
         "packagesPath": "C:\\Users\\jonwa\\.nuget\\packages\\",
-        "outputPath": "D:\\vscode\\Ticket\\Homework\\obj\\",
+        "outputPath": "D:\\vscode\\clonetest\\TicketSystemHW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonwa\\AppData\\Roaming\\NuGet\\NuGet.Config"

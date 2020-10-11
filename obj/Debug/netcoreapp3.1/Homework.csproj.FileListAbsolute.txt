@@ -1,0 +1,13 @@
+D:\vscode\clonetest\TicketSystemHW\bin\Debug\netcoreapp3.1\Homework.exe
+D:\vscode\clonetest\TicketSystemHW\bin\Debug\netcoreapp3.1\Homework.deps.json
+D:\vscode\clonetest\TicketSystemHW\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+D:\vscode\clonetest\TicketSystemHW\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+D:\vscode\clonetest\TicketSystemHW\bin\Debug\netcoreapp3.1\Homework.dll
+D:\vscode\clonetest\TicketSystemHW\bin\Debug\netcoreapp3.1\Homework.pdb
+D:\vscode\clonetest\TicketSystemHW\obj\Debug\netcoreapp3.1\Homework.csprojAssemblyReference.cache
+D:\vscode\clonetest\TicketSystemHW\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+D:\vscode\clonetest\TicketSystemHW\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+D:\vscode\clonetest\TicketSystemHW\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+D:\vscode\clonetest\TicketSystemHW\obj\Debug\netcoreapp3.1\Homework.dll
+D:\vscode\clonetest\TicketSystemHW\obj\Debug\netcoreapp3.1\Homework.pdb
+D:\vscode\clonetest\TicketSystemHW\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
